@@ -1,28 +1,28 @@
 <h1 align="center">Hey there, I'm Goudy 👋</h1>
 <p align="center">
-  🌱 Strategic Brand Designer | 💻 Front-End Dev | ✍️ UI/UX Designer <br>
-  🎯 Turning ideas into bold, clean visuals.
+  Strategic Brand Designer | Front-End Dev | UI/UX Designer <br>
+  Turning ideas into bold, clean visuals.
 </p>
 
 ---
 
-### 🧠 About Me
-- 💡 I help brands craft powerful identities that speak and sell.
-- 🎨 Design is my strategy, not just aesthetics.
-- 🧑‍💻 I build sleek, responsive websites using HTML, CSS, JS—and sprinkle in personality.
-- 📚 I'm also a legal studies student and a lifelong learner.
-- 🌍 Based in KSA, working remotely worldwide.
+### About Me
+- I help brands craft powerful identities that speak and sell.
+- Design is my strategy, not just aesthetics.
+- I build sleek, responsive websites using HTML, CSS, JS—and sprinkle in personality.
+- I'm also a legal studies student and a lifelong learner.
+- Based in KSA, working remotely worldwide.
 
 ---
 
-### 💼 What I Do
-- 🧬 **Brand Strategy & Identity Systems**
-- 🧩 **UI/UX Design** (Web + Mobile)
-- 💡 **Front-End Development** with modern stacks
+###  What I Do
+-  **Brand Strategy & Identity Systems**
+-  **UI/UX Design** (Web + Mobile)
+-  **Front-End Development** with modern stacks
 
 ---
 
-### 🚀 Tech & Tools
+###  Tech & Tools
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
